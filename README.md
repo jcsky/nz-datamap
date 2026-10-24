@@ -1,8 +1,8 @@
 # nz-datamap：基督城郊區資料地圖
 
-一個單檔的互動地圖（`christchurch-suburbs.html`），把紐西蘭基督城（Christchurch）各郊區的官方開放資料整理成中英對照，方便比較各區的人口、族群、房價、所得、學校和生活機能。
+一個單檔的互動地圖（`index.html`），把紐西蘭基督城（Christchurch）各郊區的官方開放資料整理成中英對照，方便比較各區的人口、族群、房價、所得、學校和生活機能。
 
-直接用瀏覽器打開 `christchurch-suburbs.html` 就能使用，不需要安裝或伺服器。所有資料都已內嵌在檔案裡，只有地圖程式庫 Leaflet 從 cdnjs 載入。
+直接用瀏覽器打開 `index.html` 就能使用，不需要安裝或伺服器。所有資料都已內嵌在檔案裡，只有地圖程式庫 Leaflet 從 cdnjs 載入。
 
 ## 功能
 
